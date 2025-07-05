@@ -1,0 +1,11 @@
+body {
+    background-color:aliceblue;
+    text-align:center;
+    color:darkslateblue; 
+    font-family: 'Courier New', Courier, monospace;
+    font-size:medium; 
+}
+
+img {
+    border-radius:20px;
+}
